@@ -8,6 +8,10 @@
  * loose coupling
  * decouples client code from the actual object creation process
  *
+ * SOLID:
+ * single responsibility - factory responsibility is to create instances of objects
+ *
+ *
  */
 
 class Car {
