@@ -37,3 +37,9 @@
 
   - many forms
   - ability of class to take on many forms
+
+## Notes
+
+- open close principle
+  - open to extension
+  - closed to modification
